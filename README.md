@@ -6,6 +6,7 @@
 
 
 > Постановка задачи:
+
 Реализовать файловый менеджер, отображающий файловую систему, на языке C#. 
 
 Графический интерфейс приложения должен быть написан на WPF и быть интуитивно понятным.
@@ -30,4 +31,4 @@
 
 > Результат:
 
-![Иллюстрация к проекту](https://drive.google.com/file/d/1BEt54tjTu6V3Kpd7a7N_bzOIu_8Q7rgo/view?usp=sharing)
+![Скриншот интерфейса](https://github.com/hebgehogg/Explorer/blob/master/FileExplorer.png)
